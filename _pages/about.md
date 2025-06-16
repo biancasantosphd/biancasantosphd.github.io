@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I'm Bianca 🌊 "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Dr. Bianca Santos is the Global Ocean Program Associate at The Nature Conservancy. In this role, she supports TNC’s regional ocean teams and field programs—comprising 350+ staff across 50+ countries—through fundraising, policy engagement, strategic communications, and capacity building. Her work focuses on advancing TNC’s 2030 global ocean conservation goals, with an emphasis on habitat protection, climate resilience, and sustainable fisheries and aquaculture. She manages a wide range of projects in direct support of TNC’s Global Ocean Director while also serving as a liaison with science, operations, communications, and policy staff across TNC.
+
+Bianca has over a decade of interdisciplinary experience in marine science, ocean policy, and sustainable resource management. She previously served as an International Activities Analyst at the National Oceanic and Atmospheric Administration as a 2018 Sea Grant Knauss Fellow, supporting U.S. ocean research priorities and international partnerships. She also worked with the Food and Agriculture Organization of the United Nations to develop global guidelines for spatial marine management.
+
+She holds a B.S. in Marine Vertebrate Biology from Stony Brook University, an M.S. in Marine Science from the Virginia Institute of Marine Science, and a Ph.D. in Environment and Resources from Stanford University. She has co-authored over a dozen peer-reviewed publications spanning the social, ecological, and policy dimensions of marine management and currently serves on the IUCN Commission on Ecosystem Management.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

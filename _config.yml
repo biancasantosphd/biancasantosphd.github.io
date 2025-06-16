@@ -23,13 +23,13 @@ repository               : "biancasantosphd/biancasantosphd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bianca Santos, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Washington, DC"
+  employer         : "The Nature Conservancy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bianca.santos@TNC.org" 
 
   # Academic websites
   academia         : # URL

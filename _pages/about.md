@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an interdisciplinary marine scientist specializing in the social, ecological, and policy dimensions of environmental change on marine biodiversity. My expertise focuses on the complex interplay between climate-driven shifts in migratory marine species’ habitat use and the capacity of ocean governance frameworks to respond — from coastal waters to the high seas. I also examine the social implications of changing marine resources on small-scale fisheries to support more equitable and inclusive ocean policies at local and regional scales.
+I’m an interdisciplinary marine scientist specialized in the social, ecological, and policy dimensions of environmental change on marine biodiversity. My expertise focuses on the complex interplay between climate-driven shifts in migratory marine species’ habitat use and the capacity of ocean governance frameworks to respond — from coastal waters to the high seas. I also examine the social implications of changing marine resources on small-scale fisheries to support more equitable and inclusive ocean policies at local and regional scales.
 
 <img src="https://biancasantosphd.github.io/images/tnc_copy.png" alt="Profile" style="float: left; margin: 0 15px 15px 0; pointer-events: none;"/>
 

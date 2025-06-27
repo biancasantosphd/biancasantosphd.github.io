@@ -14,8 +14,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Research"
+    url: /publications/
+
+  - title: "Presentations"
+    url: /talks/  
+    
+  - title: "Outreach"
+    url: /portfolio/
 
 #  - title: "Teaching"
 #    url: /teaching/    

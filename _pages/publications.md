@@ -13,10 +13,10 @@ author_profile: true
 ## Academic Publications  
 <hr />
 
-### 2025
+### *2025*
 1. Briscoe, D. K., Crowder, L. B., Balazs, G. H., Seminoff, J. A., Abreu, A., Lee Hing, C. A., Kurita, M., Mori, M., Parker, D. M., Rice, M. R., Saito, T., **Santos, B. S.**, Turner Tomaszewicz, C. N., Yamaguchi, N., & Polovina, J. J. 2025. Multi-decade northward shift of loggerhead sea turtle pelagic habitat as the eastern North Pacific Transition Zone becomes more oligotrophic. *Frontiers in Marine Science* 11:1513162.  
 
-### 2024
+### *2024*
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  
 
 ### 2023
@@ -62,7 +62,7 @@ author_profile: true
 ## Reports  
 <hr />
 
-1. FAO. 2019. Report of the Expert meeting on Other Effective Area-Based Conservation measures in the marine capture fishery sector, Rome, Italy, 07-10 May 2019. *FAO Fisheries and Aquaculture Report No. 1301*. Rome. 74 pp.
+1. FAO. 2019. Report of the Expert Meeting on Other Effective Area-Based Conservation Measures in the Marine Capture Fishery Sector, Rome, Italy, 07-10 May 2019. *FAO Fisheries and Aquaculture Report No. 1301*. Rome. 74 pp.
 
 {% include base_path %}
 

@@ -22,7 +22,7 @@ repository               : "biancasantosphd/biancasantosphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://postimg.cc/KR4kssMp"
+  avatar           : "profile.png"
   name             : "Bianca Santos, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Ocean governance & marine conservation"

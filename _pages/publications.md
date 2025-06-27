@@ -10,13 +10,13 @@ author_profile: true
 
 {% endif %}
 
-## Academic Publications  
+## Peer-Reviewed Publications  
 <hr />
 
-### *2025*
+### 2025
 1. Briscoe, D. K., Crowder, L. B., Balazs, G. H., Seminoff, J. A., Abreu, A., Lee Hing, C. A., Kurita, M., Mori, M., Parker, D. M., Rice, M. R., Saito, T., **Santos, B. S.**, Turner Tomaszewicz, C. N., Yamaguchi, N., & Polovina, J. J. 2025. Multi-decade northward shift of loggerhead sea turtle pelagic habitat as the eastern North Pacific Transition Zone becomes more oligotrophic. *Frontiers in Marine Science* 11:1513162.  
 
-### *2024*
+### 2024
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  
 
 ### 2023
@@ -42,13 +42,13 @@ author_profile: true
 14. Lau, Y.T., **Santos, B.**, Barbosa, M., Espinosa, E.P., Allam, B. 2018. Regulation of apoptosis-related genes during interactions between oyster hemocytes and the alveolate parasite *Perkinsus marinus*. *Fish and Shellfish Immunology* 83:180-189.  
 15. Smits, A.P., Schindler, D.E., Armstrong, J.B., Brett, M.T., Carter, J.L., **Santos, B.S.** 2016. Thermal constraints on stream consumer responses to a marine resource subsidy. *Canadian Journal of Fisheries and Aquatic Sciences* 73(11):1661-1671.  
 
-## In Review  
+### In Review  
 <hr />
 
 1. **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Social-ecological vulnerability and adaptive capacity of small-scale fisheries in Palau. 
-2. Palacios-Abrantes, J., **Santos, B.S.**, Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., & Cheung, W.W.L. (2025). Climate change drives shifts in straddling fish stocks in the world’s ocean.
+2. Palacios-Abrantes, J., **Santos, B.S.**, Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., & Cheung, W.W.L. Climate change drives shifts in straddling fish stocks in the world’s ocean.
 
-## In Preparation  
+### In Preparation  
 <hr />
 
 1. **Santos, B.S.**, Devereaux, S., Crowder, L. Classifying bycatch mitigation measures across jurisdictions: A case study in the northeast Pacific.  

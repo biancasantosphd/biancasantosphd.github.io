@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bianca Santos"
+title                    : "test 2 Bianca Santos"
 title_separator          : "-"
 name                     : &name "test Bianca Santos"
 description              : &description "personal description"

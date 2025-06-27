@@ -1,0 +1,49 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=EfvAoL4AAAAJ&hl=en">my Google Scholar profile</a>.</div>
+
+{% endif %}
+
+## Academic Publications
+
+- **Santos, B.**, Author 2, Author 3 (2024). *Title of the paper*. _Journal Name_, **Volume**(Issue), pages. [DOI link]
+- **Santos, B.**, Author (2023). *Another publication title*. _Marine Policy_, etc.
+
+
+## In Review
+
+- **Santos, B.**,
+
+
+{% include base_path %}
+
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+
+

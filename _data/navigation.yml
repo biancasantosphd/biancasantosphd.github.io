@@ -17,11 +17,11 @@ main:
   - title: "Research"
     url: /portfolio/
 
-  - title: "Presentations"
-    url: /talks/  
+#  - title: "Presentations"
+#    url: /talks/  
     
-  - title: "Outreach"
-    url: /portfolio/
+#  - title: "Outreach"
+#    url: /teaching/
 
 #  - title: "Teaching"
 #    url: /teaching/    

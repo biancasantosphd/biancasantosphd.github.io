@@ -57,7 +57,7 @@ author_profile: true
 ## Book Chapters  
 <hr />
 
-1. Briscoe, D., Santos, B.S., Tuner Tomaszewicz, C.N., Crowder, L.B. One if by land, two if by sea: New approaches to conserving endangered sea turtles. In: *Navigating our way to solutions in marine conservation*, ed. Crowder, L.B. Open Book Publishers.  
+1. Briscoe, D., **Santos, B.S.**, Tuner Tomaszewicz, C.N., Crowder, L.B. One if by land, two if by sea: New approaches to conserving endangered sea turtles. In: *Navigating our way to solutions in marine conservation*, ed. Crowder, L.B. Open Book Publishers.  
 
 ## Reports  
 <hr />

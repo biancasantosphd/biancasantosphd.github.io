@@ -22,10 +22,10 @@ repository               : "biancasantosphd/biancasantosphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "assets/images/headshot.jpg"
   name             : "Bianca Santos, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Marine biodiversity & ocean governance"
   location         : "Washington, DC"
   employer         : "The Nature Conservancy"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  biancasantos91
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

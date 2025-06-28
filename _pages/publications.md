@@ -19,7 +19,9 @@ author_profile: true
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Beyond boundaries: Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  <a href="https://doi.org/10.1038/s44183-024-00059-5" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
 <a href="/files/Santos et al 2024.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
-3. Rubin, N.B., Bower, E.R., Herbert, N., **Santos, B.**, Wong-Parodi, G. 2023. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate* 2(3):03300.  
+3. Rubin, N.B., Bower, E.R., Herbert, N., **Santos, B.**, Wong-Parodi, G. 2023. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate* 2(3):033001.   <a href="https://doi.org/10.1088/2752-5295/ace3e9" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Berlin Rubin et al 2023.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
 4. **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.  
 5. Blondin, H.E., Armstrong, K., Hazen, E.L., Oestreich, W., **Santos, B.S.**, Haulsee, D., Mikles, C., Knight, C., Bennett, A., Crowder, L.B. 2022. Land-dependent marine predators face climate-driven impacts on land and at sea. *Marine Ecology Progress Series* 699: 181-198.  
 6. **Santos, B.S.**, and Wong-Parodi, G. News coverage of ocean issues and its impacts on public perceptions and conservation information-seeking of sea turtles. 2022. *Conservation Science and Practice* e12650.  

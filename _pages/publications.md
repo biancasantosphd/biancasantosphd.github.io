@@ -14,10 +14,10 @@ author_profile: true
 <hr />
 
 1. Briscoe, D. K., Crowder, L. B., Balazs, G. H., Seminoff, J. A., Abreu, A., Lee Hing, C. A., Kurita, M., Mori, M., Parker, D. M., Rice, M. R., Saito, T., **Santos, B. S.**, Turner Tomaszewicz, C. N., Yamaguchi, N., & Polovina, J. J. 2025. Multi-decade northward shift of loggerhead sea turtle pelagic habitat as the eastern North Pacific Transition Zone becomes more oligotrophic. *Frontiers in Marine Science* 11:1513162.  <a href="https://doi.org/10.1038/s41558-024-02822-3" target="_blank" style="text-decoration: none;">
-  🔗 </a>
-  
-  <a href="https://doi.org/10.1038/s41558-024-02822-3" target="_blank" style="text-decoration: none;">
   <i class="fas fa-external-link-alt"></i>
+</a>
+<a href="/files/pdf/your-paper.pdf" target="_blank" style="text-decoration: none;">
+  <i class="fas fa-file-pdf"></i>
 </a>
 
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Beyond boundaries: Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  

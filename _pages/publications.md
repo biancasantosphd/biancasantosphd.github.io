@@ -19,13 +19,21 @@ author_profile: true
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Beyond boundaries: Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  <a href="https://doi.org/10.1038/s44183-024-00059-5" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
 <a href="/files/Santos et al 2024.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
-3. Rubin, N.B., Bower, E.R., Herbert, N., **Santos, B.**, Wong-Parodi, G. 2023. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate* 2(3):033001.   <a href="https://doi.org/10.1088/2752-5295/ace3e9" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+3. Rubin, N.B., Bower, E.R., Herbert, N., **Santos, B.**, Wong-Parodi, G. 2023. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate* 2(3):033001.  <a href="https://doi.org/10.1088/2752-5295/ace3e9" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
 <a href="/files/Berlin Rubin et al 2023.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
-4. **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.  
-5. Blondin, H.E., Armstrong, K., Hazen, E.L., Oestreich, W., **Santos, B.S.**, Haulsee, D., Mikles, C., Knight, C., Bennett, A., Crowder, L.B. 2022. Land-dependent marine predators face climate-driven impacts on land and at sea. *Marine Ecology Progress Series* 699: 181-198.  
-6. **Santos, B.S.**, and Wong-Parodi, G. News coverage of ocean issues and its impacts on public perceptions and conservation information-seeking of sea turtles. 2022. *Conservation Science and Practice* e12650.  
-7. Chapman, M.S., Oestreich, W.K., Frawley, T.H., Boettiger, C., Diver, S.W., **Santos, B.S.**, Scoville, C., Armstrong, K., Blondin, H., Chand, K., Gjerde, K.M., Haulsee, D.E., Knight, C.J., Crowder, L.B. 2021. Promoting equity in the use of algorithms for high-seas conservation. *One Earth* 4(6):790-794.  
+4. **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.   <a href="https://doi.org/10.3389/fmars.2022.1001240" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Santos et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+5. Blondin, H.E., Armstrong, K., Hazen, E.L., Oestreich, W., **Santos, B.S.**, Haulsee, D., Mikles, C., Knight, C., Bennett, A., Crowder, L.B. 2022. Land-dependent marine predators face climate-driven impacts on land and at sea. *Marine Ecology Progress Series* 699: 181-198.  <a href="https://doi.org/10.3354/meps14174" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Blondin et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+6. **Santos, B.S.**, and Wong-Parodi, G. News coverage of ocean issues and its impacts on public perceptions and conservation information-seeking of sea turtles. 2022. *Conservation Science and Practice* 4(4):e12650.  <a href="https://doi.org/10.1111/csp2.12650" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Santos and Wong-Parodi 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+7. Chapman, M.S., Oestreich, W.K., Frawley, T.H., Boettiger, C., Diver, S.W., **Santos, B.S.**, Scoville, C., Armstrong, K., Blondin, H., Chand, K., Gjerde, K.M., Haulsee, D.E., Knight, C.J., Crowder, L.B. 2021. Promoting equity in the use of algorithms for high-seas conservation. *One Earth* 4(6):790-794.  <a href="https://doi.org/10.1016/j.oneear.2021.05.011" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Chapman et al 2021.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
 8. **Santos, B.S.**, and Crowder, L.B. 2021. Online news coverage of sea turtles and their conservation. *BioScience* 71(3):305-313.  
 9. Santana, F.N., Wagner, C.H., Berlin, N.R., Bloomfield L.S.P., Bower, E.R., Fischer, S.L., **Santos, B.S.**, Smith, G.E., Muraida, C.T., Wong-Parodi, G. 2021. A path forward for qualitative research on sustainability in the COVID-19 pandemic. *Sustainability Science* 1-7.  
 10. Boudin, E., **Santos, B.**, Carcaillet, F. and Kaplan D. 2020. Virginia Beached Sea Turtle Survey. *Frontier in Young Minds* 8:38.  

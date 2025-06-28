@@ -13,7 +13,13 @@ author_profile: true
 ## Peer-Reviewed Publications  
 <hr />
 
-1. Briscoe, D. K., Crowder, L. B., Balazs, G. H., Seminoff, J. A., Abreu, A., Lee Hing, C. A., Kurita, M., Mori, M., Parker, D. M., Rice, M. R., Saito, T., **Santos, B. S.**, Turner Tomaszewicz, C. N., Yamaguchi, N., & Polovina, J. J. 2025. Multi-decade northward shift of loggerhead sea turtle pelagic habitat as the eastern North Pacific Transition Zone becomes more oligotrophic. *Frontiers in Marine Science* 11:1513162.  [🔗 DOI](https://doi.org/10.1038/s41558-024-02822-3)
+1. Briscoe, D. K., Crowder, L. B., Balazs, G. H., Seminoff, J. A., Abreu, A., Lee Hing, C. A., Kurita, M., Mori, M., Parker, D. M., Rice, M. R., Saito, T., **Santos, B. S.**, Turner Tomaszewicz, C. N., Yamaguchi, N., & Polovina, J. J. 2025. Multi-decade northward shift of loggerhead sea turtle pelagic habitat as the eastern North Pacific Transition Zone becomes more oligotrophic. *Frontiers in Marine Science* 11:1513162.  <a href="https://doi.org/10.1038/s41558-024-02822-3" target="_blank" style="text-decoration: none;">
+  🔗 </a>
+  
+  <a href="https://doi.org/10.1038/s41558-024-02822-3" target="_blank" style="text-decoration: none;">
+  <i class="fas fa-external-link-alt"></i>
+</a>
+
 2. **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Beyond boundaries: Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  
 3. Rubin, N.B., Bower, E.R., Herbert, N., **Santos, B.**, Wong-Parodi, G. 2023. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate* 2(3):03300.  
 4. **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.  

@@ -21,7 +21,7 @@ My research can loosely be grouped into three core areas:
 ## (1) High seas biodiversity governance
 <figure style="float: left; margin: 15px; width: 300px;">
   <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
-  <figcaption style="font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
+  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
   </figcaption>
 </figure>
@@ -33,8 +33,8 @@ This area explores the complex challenges of conserving marine biodiversity beyo
 ## (2) Climate-driven shifts of migratory species
 <figure style="float: right; margin: 15px; width: 300px;">
   <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width:100%; height:auto;">
-  <figcaption style="font-size:0.8em; color:gray; text-align: right; margin-top:4px;">
-    Photo by Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color:gray; text-decoration:none;">Pexels</a>
+  <figcaption style="font-family: inherit; font-size:0.8em; color:gray; text-align: right; margin-top:4px;">
+    Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color:gray; text-decoration:none;">Pexels</a>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ The mobile nature of migratory marine species across jurisdictional boundaries p
 ## (3) Social-ecological dynamics of small-scale fisheries
 <figure style="float: left; margin: 15px; width: 300px;">
   <img src="https://biancasantosphd.github.io/images/research3.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
-  <figcaption style="font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
+  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
     Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0
   </figcaption>
 </figure>This area explores the complex challenges faced by coastal communities, especially small-scale fisheries, as they navigate the impacts of climate change on their livelihoods, food security, and cultural practices. It emphasizes the need for locally grounded, mixed-methods research that integrates social and ecological perspectives to better understand how environmental stressors affect fishing activity, biodiversity, and  adaptive capacity. This research also considers how gender and intersecting social identities influence resilience and adaptive capacity, contributing to the development of inclusive, equitable, and gender-responsive management strategies.

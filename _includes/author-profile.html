@@ -43,6 +43,12 @@
   <li><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ author.email }}</li>
 {% endif %}
 
+{% if author.education %}
+  <p>
+    <i class="fas fa-graduation-cap" aria-hidden="true"></i> {{ author.education }}
+  </p>
+{% endif %}
+
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>

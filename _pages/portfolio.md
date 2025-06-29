@@ -19,7 +19,7 @@ My research explores how anthropogenic and environmental pressures affect marine
 My research can loosely be grouped into three core areas:
 
 ## (1) High seas biodiversity governance
-<figure style="float: right; margin: 15px; width: fit-content;">
+<figure style="float: right; margin: 15px; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
   <figcaption style="font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
@@ -31,7 +31,7 @@ This area explores the complex challenges of conserving marine biodiversity beyo
 * **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.
 
 ## (2) Climate-driven shifts of migratory species
-<figure style="float:right; margin: 15px; max-width:200px;">
+<figure style="float:right; margin: 15px; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width:100%; height:auto;">
   <figcaption style="font-size:0.8em; color:gray; text-align: right; margin-top:4px;">
     Photo by Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color:gray; text-decoration:none;">Pexels</a>
@@ -45,7 +45,7 @@ The mobile nature of migratory marine species across jurisdictional boundaries p
 * Research collaborator with [LoggerheadSTRETCH](https://www.loggerheadstretch.org/), analyzing  governance complexities emerging from climate-driven sea turtle redistributions in the Northeast Pacific to inform adaptive, responsive management strategies
 
 ## (3) Social-ecological dynamics of small-scale fisheries
-<figure style="float: right; margin: 15px; width: fit-content;">
+<figure style="float: right; margin: 15px; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/research3.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
   <figcaption style="font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
     Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0

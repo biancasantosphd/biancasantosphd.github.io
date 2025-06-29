@@ -74,7 +74,8 @@ author_profile: true
 ## Reports  
 <hr />
 
-1. FAO. 2019. Report of the Expert Meeting on Other Effective Area-Based Conservation Measures in the Marine Capture Fishery Sector, Rome, Italy, 07-10 May 2019. *FAO Fisheries and Aquaculture Report No. 1301*. Rome. 74 pp.
+1. FAO. 2019. Report of the Expert Meeting on Other Effective Area-Based Conservation Measures in the Marine Capture Fishery Sector, Rome, Italy, 07-10 May 2019. *FAO Fisheries and Aquaculture Report No. 1301*. Rome. 74 pp.    <a href="https://openknowledge.fao.org/handle/20.500.14283/cb0725en" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/FAO 2019.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
 {% include base_path %}
 

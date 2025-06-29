@@ -34,14 +34,24 @@ author_profile: true
 7. Chapman, M.S., Oestreich, W.K., Frawley, T.H., Boettiger, C., Diver, S.W., **Santos, B.S.**, Scoville, C., Armstrong, K., Blondin, H., Chand, K., Gjerde, K.M., Haulsee, D.E., Knight, C.J., Crowder, L.B. 2021. Promoting equity in the use of algorithms for high-seas conservation. *One Earth* 4(6):790-794.  <a href="https://doi.org/10.1016/j.oneear.2021.05.011" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
 <a href="/files/Chapman et al 2021.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
-8. **Santos, B.S.**, and Crowder, L.B. 2021. Online news coverage of sea turtles and their conservation. *BioScience* 71(3):305-313.  
-9. Santana, F.N., Wagner, C.H., Berlin, N.R., Bloomfield L.S.P., Bower, E.R., Fischer, S.L., **Santos, B.S.**, Smith, G.E., Muraida, C.T., Wong-Parodi, G. 2021. A path forward for qualitative research on sustainability in the COVID-19 pandemic. *Sustainability Science* 1-7.  
-10. Boudin, E., **Santos, B.**, Carcaillet, F. and Kaplan D. 2020. Virginia Beached Sea Turtle Survey. *Frontier in Young Minds* 8:38.  
-11. **Santos, B.S.**, Friedrichs, M.A.M., Rose, S., Barco, S.G., Kaplan, D.M. 2018. Likely locations of sea turtle stranding mortality using experimentally-calibrated, time and space-specific drift models. *Biological Conservation* 226:127-143.  
-12. **Santos, B.S.**, Kaplan, D.M., Friedrichs, M.A.M., Barco, S.G., Mansfield, K.L., Manning, J.P. 2018. Consequences of drift and carcass decomposition for estimating sea turtle mortality hotspots. *Ecological Indicators* 84:319-336.  
-13. Lau, Y.T., Gambino, L., **Santos, B.**, Espinosa, E.P., Allam, B. 2018. Transepithelial migration of *Crassostrea virginica* hemocytes and potential role in *Perkinsus marinus* pathogenesis. *Journal of Invertebrate Pathology* 154:122-129.  
-14. Lau, Y.T., **Santos, B.**, Barbosa, M., Espinosa, E.P., Allam, B. 2018. Regulation of apoptosis-related genes during interactions between oyster hemocytes and the alveolate parasite *Perkinsus marinus*. *Fish and Shellfish Immunology* 83:180-189.  
-15. Smits, A.P., Schindler, D.E., Armstrong, J.B., Brett, M.T., Carter, J.L., **Santos, B.S.** 2016. Thermal constraints on stream consumer responses to a marine resource subsidy. *Canadian Journal of Fisheries and Aquatic Sciences* 73(11):1661-1671.  
+8. **Santos, B.S.**, and Crowder, L.B. 2021. Online news coverage of sea turtles and their conservation. *BioScience* 71(3):305-313.  <a href="https://doi.org/10.1093/biosci/biaa175" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Santos and Crowder 2021.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+9. Santana, F.N., Wagner, C.H., Berlin, N.R., Bloomfield L.S.P., Bower, E.R., Fischer, S.L., **Santos, B.S.**, Smith, G.E., Muraida, C.T., Wong-Parodi, G. 2021. A path forward for qualitative research on sustainability in the COVID-19 pandemic. *Sustainability Science* 16:1061–1067.  <a href="https://doi.org/10.1007/s11625-020-00894-8" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Santana et al 2021.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+10. Boudin, E., **Santos, B.**, Carcaillet, F. and Kaplan D. 2020. Virginia Beached Sea Turtle Survey. *Frontier in Young Minds* 8:38.  <a href="https://doi.org/10.3389/frym.2020.00038" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Boudin et al 2021.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
+
+11. **Santos, B.S.**, Friedrichs, M.A.M., Rose, S., Barco, S.G., Kaplan, D.M. 2018. Likely locations of sea turtle stranding mortality using experimentally-calibrated, time and space-specific drift models. *Biological Conservation* 226:127-143.  <a href="https://doi.org/10.1016/j.biocon.2018.06.029" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i>
+
+12. **Santos, B.S.**, Kaplan, D.M., Friedrichs, M.A.M., Barco, S.G., Mansfield, K.L., Manning, J.P. 2018. Consequences of drift and carcass decomposition for estimating sea turtle mortality hotspots. *Ecological Indicators* 84:319-336.  <a href="https://doi.org/10.1016/j.ecolind.2017.08.064" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i>
+
+13. Lau, Y.T., Gambino, L., **Santos, B.**, Espinosa, E.P., Allam, B. 2018. Transepithelial migration of *Crassostrea virginica* hemocytes and potential role in *Perkinsus marinus* pathogenesis. *Journal of Invertebrate Pathology* 154:122-129.  <a href="https://doi.org/10.1016/j.jip.2018.03.004" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i>
+
+14. Lau, Y.T., **Santos, B.**, Barbosa, M., Espinosa, E.P., Allam, B. 2018. Regulation of apoptosis-related genes during interactions between oyster hemocytes and the alveolate parasite *Perkinsus marinus*. *Fish and Shellfish Immunology* 83:180-189.  <a href="https://doi.org/10.1016/j.fsi.2018.09.006" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i>
+
+15. Smits, A.P., Schindler, D.E., Armstrong, J.B., Brett, M.T., Carter, J.L., **Santos, B.S.** 2016. Thermal constraints on stream consumer responses to a marine resource subsidy. *Canadian Journal of Fisheries and Aquatic Sciences* 73(11):1661-1671.  <a href="https://doi.org/10.1139/cjfas-2015-0420" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i>
 
 ### In Review  
 <hr />
@@ -52,7 +62,8 @@ author_profile: true
 ### In Preparation  
 <hr />
 
-1. **Santos, B.S.**, Devereaux, S., Crowder, L. Classifying bycatch mitigation measures across jurisdictions: A case study in the northeast Pacific.  
+1. **Santos, B.S.**, Devereaux, S., Crowder, L. Classifying bycatch mitigation measures across jurisdictions: A case study in the northeast Pacific.
+
 2. **Santos, B.S.**, Ferguson, C.E., Mekilt Nagata, M., Singeo, A., Wabnitz, C., Wong-Parodi, G. An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.
 
 ## Book Chapters  

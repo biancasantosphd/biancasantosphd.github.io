@@ -23,13 +23,12 @@ This area explores the complex challenges of conserving marine biodiversity both
 <a href="/files/Santos et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
 ## (2) Climate-driven shifts of migratory species
-<figure style="float: right; margin: 15px; width: 300px;">
-  <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width:100%; height:auto;">
-  <figcaption style="font-family: inherit; font-size:0.8em; color:gray; text-align: right; margin-top:4px;">
-    Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color:gray; text-decoration:none;">Pexels</a>
-  </figcaption>
-</figure>
-
+<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+  <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width: 100%; height: auto;" />
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
+    Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color: gray; text-decoration: none;">Pexels</a>
+  </div>
+</div>
 The mobile nature of migratory marine species across jurisdictional boundaries poses significant challenges for biodiversity management, especially under global environmental change. Climate-driven habitat shifts may alter species’ distributions across geopolitical boundaries, raising complex governance issues in a physically borderless yet legally bounded ocean. This area of research focuses on understanding these dynamic species redistributions through ecological and spatial modeling, assessing governance frameworks’ capacity to respond to transboundary shifts, and informing adaptive, collaborative management approaches that can accommodate rapidly changing ocean ecosystems.
 
 ### Related publications and activities

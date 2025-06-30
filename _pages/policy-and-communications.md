@@ -10,7 +10,7 @@ author_profile: true
 ## Science-Policy Engagement & Impact
 <hr />
 
-<figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 325px;">
+<figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/cop2.png" alt="At COP28" style="max-width: 100%; display: block;" />
 </figure> I am passionate about advancing and applying research that not only deepens our scientific understanding of the ocean, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes that benefit both nature and people.
 
@@ -24,7 +24,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 <hr />
 
 ### Oral presentations
-<figure style="float: right; vertical-align: top; margin: 15px; width: 250px;">
+<figure style="float: right; vertical-align: top; margin: 15px; width: 325px;">
   <img src="https://biancasantosphd.github.io/images/conference copy.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure>
 1.	“An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.” 4S Society for Social Studies of Science Annual Meeting. Honolulu, Hawaii. 8-11 November, 2023.

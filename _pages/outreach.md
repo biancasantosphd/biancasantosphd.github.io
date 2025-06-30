@@ -11,7 +11,7 @@ author_profile: true
 <hr />
 
 <figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
-  <img src="https://biancasantosphd.github.io/images/cop2.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+  <img src="https://biancasantosphd.github.io/images/cop3.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure> I am passionate about advancing and applying research that not only deepens our scientific understanding of the ocean, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes that benefit both nature and people.
 
 To this end, I’ve contributed in various capacities to several high-level international science-policy forums, including, [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/).

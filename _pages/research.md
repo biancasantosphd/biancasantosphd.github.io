@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research explores how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I integrate natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems from coastal waters to the high seas. Spanning global to local scales, my work draws on methods such as policy analysis, spatial modeling, and stakeholder surveys to support effective ocean governance.
-
-My research can loosely be grouped into three core areas:
+My research explores how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I integrate natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems from coastal waters to the high seas. Spanning global to local scales, my work draws on methods such as policy analysis, spatial modeling, and stakeholder surveys to support effective ocean governance. My expertise can loosely be grouped into three core areas:
 
 ## (1) High seas biodiversity governance
 <figure style="float: left; margin: 15px; width: 300px;">
@@ -18,7 +16,7 @@ My research can loosely be grouped into three core areas:
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
   </figcaption>
 </figure>
-This area explores the complex challenges of conserving marine biodiversity beyond national jurisdictions, where fragmented governance frameworks have historically limited effective protection. It focuses on evolving international efforts to establish equitable, comprehensive agreements—such as the recent BBNJ (or “High Seas”) treaty—that aim to sustainably manage marine biodiversity in areas beyond national jurisdiction. A key interest lies in understanding how fisheries and biodiversity policies and regulations across national and regional boundaries interact to influence the conservation of highly migratory species, and how these frameworks might be improved through collaborative governance.
+This area explores the complex challenges of conserving marine biodiversity both across and beyond national jurisdictions, where fragmented governance frameworks have historically limited effective protection. It encompasses effort such as the recent Biodiversity Beyond National Jurisdiction (BBNJ) treaty — also known as the “High Seas” treaty — which seeks to sustainably manage marine life in areas beyond national jurisdiction. A key interest lies in understanding how fisheries and biodiversity policies and regulations across national and regional boundaries interact to affect the conservation of marine biodiversity, and how these frameworks might be improved through transformative governance approaches that promote equity, collaboration, and adaptability.
 
 ### Related publications and activities
 * **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.   <a href="https://doi.org/10.3389/fmars.2022.1001240" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>

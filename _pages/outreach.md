@@ -46,11 +46,3 @@ To this end, I’ve contributed in various capacities to several high-level inte
 2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.
 3.  "Science Communication & Visualization." Guest speaker in a graduate-level fisheries seminar course (FISH 500). 3 March 2023. University of British Columbia (presented remotely).
 4.  "Human & Environmental Impacts on our Oceans." Guest speaker in a undergraduate-level earth systems science course (ES 8 - The Oceans: Introduction to the Marine Environment). 25 May 2022. Stanford University, Stanford, CA.
-
-## Outreach & Mentorship  
-<hr />
-
-talk to student with fellowship
-
-
-

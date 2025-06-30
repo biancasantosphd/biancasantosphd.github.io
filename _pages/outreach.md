@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-## Science-Policy Engagements & Impact
+## Science-Policy Engagement & Impact
 <hr />
 
 <figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/cop.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure> I am deeply committed to research that not only advances scientific understanding, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes.
 
-<figure style="float: left; vertical-align: top; margin: 15px; width: 300px;">
+<figure style="float: left; vertical-align: top; margin: 15px; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/BBNJ one pager.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure>To this end, I’ve contributed in various capacities to several high-level international science-policy forums, including, [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/).
 

@@ -7,19 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-## Science-Policy Engagements
+## Science-Policy Engagements & Impact
 <hr />
 
-<figure style="float: right; margin: 15px; width: 300px;">
+<figure style="float: right; margin: 15px; vertical-align: top; width: 300px;">
   <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
-  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
-    Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
-  </figcaption>
-</figure>
+</figure> I am deeply committed to research that not only advances scientific understanding, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes.
 
-I am deeply committed to research that not only advances scientific understanding, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes.
+<figure style="float: left; vertical-align: top; margin: 15px; width: 300px;">
+  <img src="https://biancasantosphd.github.io/images/BBNJ one pager.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+</figure>To this end, I’ve contributed in various capacities to several high-level international science-policy forums, including, [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/).
 
-To this end, I’ve contributed in various capacities to several high-level international science-policy forums, ...including the [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/).
+In addition to participating in key international environmental governance forums, I also look for opportunities to strategically communicate science in ways that contribute meaningfully to policy dialogues. I strive to produce research that is not only policy-relevant, at both national and international scales, but also timed and positioned to inform key decision-making moments. For example, I co-authored a paper on the diverse benefits of the proposed biodiversity beyond national jurisdiction (BBNJ) treaty, which was strategically published just days before the 5th Session of the Intergovernmental Conference (IGC) on the BBNJ treaty to inform discussions during a key phase of the treaty negotiations. To directly support decision-makers in the room, we distilled the paper into a concise one-pager that was shared with delegates at the IGC, serving as a targeted science communication tool. The paper was also amplified by the International Union for Conservation of Nature — through [social media](https://x.com/IUCN/status/1631329892997447680), a [feature story](https://iucn.org/story/202306/laying-foundation-rapid-effective-and-equitable-implementation-new-high-seas), and a [multimedia story](https://iucn.org/story/202306/laying-foundation-rapid-effective-and-equitable-implementation-new-high-seas).
 
 ## Presentations 
 <hr />

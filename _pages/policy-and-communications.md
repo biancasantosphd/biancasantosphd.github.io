@@ -11,13 +11,13 @@ author_profile: true
 <hr />
 
 <figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
-  <img src="https://biancasantosphd.github.io/images/cop2.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+  <img src="https://biancasantosphd.github.io/images/cop2.png" alt="At COP28" style="max-width: 100%; display: block;" />
 </figure> I am passionate about advancing and applying research that not only deepens our scientific understanding of the ocean, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes that benefit both nature and people.
 
 To this end, I’ve contributed in various capacities to several high-level international science-policy forums, including, [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/). At the 2025 UN Ocean Conference, I served as a panelist at a side event entitled "Women Making Waves: A Synergy of Ecosystem Science, Social Science, Neuroscience, Indigenous Knowledge & Policy to Inspire & Empower Ocean Action."
 
 <figure style="float: left; vertical-align: top; margin: 15px; width: 250px;">
-  <img src="https://biancasantosphd.github.io/images/BBNJ one pager.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+  <img src="https://biancasantosphd.github.io/images/BBNJ one pager.png" alt="one pager of BBNJ paper" style="max-width: 100%; display: block;" />
 </figure>In addition to participating in key international environmental governance forums, I also look for opportunities to strategically communicate science in ways that contribute meaningfully to policy dialogues. I strive to produce research that is not only policy-relevant, at both national and international scales, but also timed and positioned to inform key decision-making moments. For example, I co-authored a paper on the diverse benefits of the proposed biodiversity beyond national jurisdiction (BBNJ) treaty, which was strategically published just days before the 5th Session of the Intergovernmental Conference (IGC) on the BBNJ treaty to inform discussions during a key phase of the treaty negotiations. To directly support decision-makers in the room, we distilled the paper into a concise one-pager that was shared with delegates at the IGC, serving as a targeted science communication tool. The paper was also amplified by the International Union for Conservation of Nature — through [social media](https://x.com/IUCN/status/1631329892997447680), a [feature story](https://iucn.org/story/202306/laying-foundation-rapid-effective-and-equitable-implementation-new-high-seas), and a [multimedia story](https://iucn.org/story/202306/laying-foundation-rapid-effective-and-equitable-implementation-new-high-seas).
 
 ## Presentations 
@@ -45,7 +45,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 
 ## Invited talks & speaking engagements
 <figure style="float: left; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
-  <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at event" style="max-width: 100%; display: block;" /></figure>
+  <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at career Meridian International Center event" style="max-width: 100%; display: block;" /></figure>
 1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
 2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.
 3.  "Science Communication & Visualization." Guest speaker in a graduate-level fisheries seminar course (FISH 500). 3 March 2023. University of British Columbia (presented remotely).

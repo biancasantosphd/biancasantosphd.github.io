@@ -47,9 +47,10 @@ To this end, I’ve contributed in various capacities to several high-level inte
 <div style="overflow: hidden;">
 <figure style="float: left; margin: 0 15px 15px 0; clear:left; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at career Meridian International Center event" style="max-width: 100%; display: block;" /></figure>
-  <p>1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
-2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.
-3.  "Science Communication & Visualization." Guest speaker in a graduate-level fisheries seminar course (FISH 500). 3 March 2023. University of British Columbia (presented remotely).
-4.  "Human & Environmental Impacts on our Oceans." Guest speaker in a undergraduate-level earth systems science course (ES 8 - The Oceans: Introduction to the Marine Environment). 25 May 2022. Stanford University, Stanford, CA.
+  <p>
+  1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
+  2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.
+  3.  "Science Communication & Visualization." Guest speaker in a graduate-level fisheries seminar course (FISH 500). 3 March 2023. University of British Columbia (presented remotely).
+  4.  "Human & Environmental Impacts on our Oceans." Guest speaker in a undergraduate-level earth systems science course (ES 8 - The Oceans: Introduction to the Marine Environment). 25 May 2022. Stanford University, Stanford, CA.
 </p></div>
 

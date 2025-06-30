@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
 My research explores how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I integrate natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems from coastal waters to the high seas. Spanning global to local scales, my work draws on methods such as policy analysis, spatial modeling, and stakeholder surveys to support effective ocean governance.
 
 My research can loosely be grouped into three core areas:

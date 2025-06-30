@@ -10,6 +10,13 @@ author_profile: true
 ## Science-Policy Engagements
 <hr />
 
+<figure style="float: right; margin: 15px; width: 300px;">
+  <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
+    Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
+  </figcaption>
+</figure>
+
 I am deeply committed to research that not only advances scientific understanding, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes.
 
 To this end, I’ve contributed in various capacities to several high-level international science-policy forums, ...including the [2025 Our Ocean Conference](https://ourocean2025.kr), [2025 UN Ocean Conference](https://unocnice2025.org/en/), [28th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP28)](https://unfccc.int/cop28), and the [2018 Spring Meetings of the International Monetary Fund and World Bank Group](https://www.imf.org/external/spring/2018/).
@@ -23,6 +30,10 @@ To this end, I’ve contributed in various capacities to several high-level inte
 
 ## Outreach & Mentorship  
 <hr />
+
+talk to student with fellowship
+
+class presentation
 
 1. **Santos, B.S.**, Devereaux, S., Crowder, L. Classifying bycatch mitigation measures across jurisdictions: A case study in the northeast Pacific.
 

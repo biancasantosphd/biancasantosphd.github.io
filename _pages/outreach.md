@@ -10,8 +10,8 @@ author_profile: true
 ## Science-Policy Engagements & Impact
 <hr />
 
-<figure style="float: right; margin: 15px; vertical-align: top; width: 300px;">
-  <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+<figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
+  <img src="https://biancasantosphd.github.io/images/cop.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure> I am deeply committed to research that not only advances scientific understanding, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes.
 
 <figure style="float: left; vertical-align: top; margin: 15px; width: 300px;">

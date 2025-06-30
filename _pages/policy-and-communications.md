@@ -24,7 +24,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 <hr />
 
 ### Oral presentations
-<figure style="float: right; vertical-align: top; margin: 15px; width: 250px;">
+<figure style="float: right; vertical-align: top; margin: 15px; width: 400px;">
   <img src="https://biancasantosphd.github.io/images/conference.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure>
 1.	“An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.” 4S Society for Social Studies of Science Annual Meeting. Honolulu, Hawaii. 8-11 November, 2023.

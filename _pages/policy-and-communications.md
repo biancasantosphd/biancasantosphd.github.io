@@ -43,7 +43,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 1.	“Identifying locations and mechanisms for sea turtle mortality from stranding data.” 36th Annual Symposium on Sea Turtle Biology and Conservation. 29 February – 4 March 2016, Lima, Peru.
 2.	“The effect of temperature and diet on growth of juvenile coho salmon (Oncorhynchus kisutch)”. Stony Brook University’s Undergraduate Research and Creativity poster symposium. April 2013, Suffolk, NY.
 
-## Invited talks & speaking engagements
+## Invited Talks & Additional Speaking Engagements
 <div style="overflow: hidden;">
 <figure style="float: left; margin: 0 15px 15px 0; clear:left; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at career Meridian International Center event" style="max-width: 100%; display: block;" /></figure>

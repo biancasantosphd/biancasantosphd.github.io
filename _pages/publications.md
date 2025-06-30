@@ -56,8 +56,9 @@ author_profile: true
 ### In Review  
 <hr />
 
-1. **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Social-ecological vulnerability and adaptive capacity of small-scale fisheries in Palau. 
-2. Palacios-Abrantes, J., **Santos, B.S.**, Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., & Cheung, W.W.L. Climate change drives shifts in straddling fish stocks in the world’s ocean.
+1. Palacios-Abrantes, J., **Santos, B.S.**, Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., & Cheung, W.W.L. Climate change drives shifts in straddling fish stocks in the world’s ocean. Accepted at *Science Advances*
+
+2. **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Social-ecological vulnerability and adaptive capacity of small-scale fisheries in Palau. 
 
 ### In Preparation  
 <hr />
@@ -69,7 +70,8 @@ author_profile: true
 ## Book Chapters  
 <hr />
 
-1. Briscoe, D., **Santos, B.S.**, Tuner Tomaszewicz, C.N., Crowder, L.B. One if by land, two if by sea: New approaches to conserving endangered sea turtles. In: *Navigating our way to solutions in marine conservation*, ed. Crowder, L.B. Open Book Publishers.  
+1. Briscoe, D., **Santos, B.S.**, Tuner Tomaszewicz, C.N., Crowder, L.B. 2025. One if by land, two if by sea: New approaches to conserving endangered sea turtles. In: *Navigating our way to solutions in marine conservation* (pg. 45–72), ed. Crowder, L.B. Open Book Publishers.  <a href="https://doi.org/10.11647/obp.0395.04" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
+<a href="/files/Briscoe et al 2025 New approaches to conserving endangered sea turtles.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
 ## Reports  
 <hr />

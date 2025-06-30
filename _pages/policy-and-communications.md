@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Policy & Communications"
-permalink: /outreach/
+permalink: /policy-and-communications/
 author_profile: true
 ---
 
@@ -23,7 +23,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 ## Presentations 
 <hr />
 
-###Oral presentations
+### Oral presentations
 1.	“An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.” 4S Society for Social Studies of Science Annual Meeting. Honolulu, Hawaii. 8-11 November, 2023.
 2.	“The thermal corridor hypothesis: An experimental oceanographic approach to understanding the effects of ocean warming to North Pacific loggerhead sea turtles.” North Pacific Marine Science Organization PICES Annual Meeting. Seattle, Washington. 20-27 October, 2023.
 3.	“An intersectional analysis of fishers’ social-ecological resilience in Palau.” 14th annual Student Conference on Conservation Science-New York. 4-6 October, 2023, New York, New York. \**Honorable mention in Best Oral Presentation*
@@ -36,11 +36,11 @@ To this end, I’ve contributed in various capacities to several high-level inte
 10.	“Identifying locations of and mechanisms for sea turtle mortality.” 16th Annual William and Mary Arts and Sciences Graduate Research Symposium. 24-25 March 2017, Williamsburg, VA. 
 11.	“Identifying locations of and mechanisms for sea turtle mortality from stranding data using ocean drift models.” 31st Annual Meeting of the American Fisheries Society, Tidewater Chapter. 9-11 March 2017, Virginia Beach, VA.
 
-###Poster presentations
+### Poster presentations
 1.	“Identifying locations and mechanisms for sea turtle mortality from stranding data.” 36th Annual Symposium on Sea Turtle Biology and Conservation. 29 February – 4 March 2016, Lima, Peru.
 2.	“The effect of temperature and diet on growth of juvenile coho salmon (Oncorhynchus kisutch)”. Stony Brook University’s Undergraduate Research and Creativity poster symposium. April 2013, Suffolk, NY.
 
-##Invited talks & speaking engagements
+## Invited talks & speaking engagements
 <figure style="float: left; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
 2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.

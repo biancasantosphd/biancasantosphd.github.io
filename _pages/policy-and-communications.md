@@ -10,7 +10,7 @@ author_profile: true
 ## Science-Policy Engagement & Impact
 <hr />
 
-<figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
+<figure style="float: right; margin: 0 15px 15px 0; vertical-align: top; width: 325px;">
   <img src="https://biancasantosphd.github.io/images/cop2.png" alt="At COP28" style="max-width: 100%; display: block;" />
 </figure> I am passionate about advancing and applying research that not only deepens our scientific understanding of the ocean, but also generates actionable insights to inform and influence policy decisions. My goal is to guide decision-makers toward sustainable and adaptive ocean management strategies grounded in rigorous science. By bridging research and practical policy applications, I strive to ensure that ocean science contributes to real-world impact and drives tangible conservation outcomes that benefit both nature and people.
 
@@ -24,8 +24,8 @@ To this end, I’ve contributed in various capacities to several high-level inte
 <hr />
 
 ### Oral presentations
-<figure style="float: right; vertical-align: top; margin: 15px; width: 400px;">
-  <img src="https://biancasantosphd.github.io/images/conference.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
+<figure style="float: right; vertical-align: top; margin: 15px; width: 250px;">
+  <img src="https://biancasantosphd.github.io/images/conference copy.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
 </figure>
 1.	“An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.” 4S Society for Social Studies of Science Annual Meeting. Honolulu, Hawaii. 8-11 November, 2023.
 2.	“The thermal corridor hypothesis: An experimental oceanographic approach to understanding the effects of ocean warming to North Pacific loggerhead sea turtles.” North Pacific Marine Science Organization PICES Annual Meeting. Seattle, Washington. 20-27 October, 2023.
@@ -44,7 +44,7 @@ To this end, I’ve contributed in various capacities to several high-level inte
 2.	“The effect of temperature and diet on growth of juvenile coho salmon (Oncorhynchus kisutch)”. Stony Brook University’s Undergraduate Research and Creativity poster symposium. April 2013, Suffolk, NY.
 
 ## Invited talks & speaking engagements
-<figure style="float: left; margin: 0 15px 15px 0; vertical-align: top; width: 250px;">
+<figure style="float: left; margin: 0 15px 15px 0; clear:left; vertical-align: top; width: 250px;">
   <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Speaking at career Meridian International Center event" style="max-width: 100%; display: block;" /></figure>
 1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
 2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.

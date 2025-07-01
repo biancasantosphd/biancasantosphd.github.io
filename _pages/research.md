@@ -22,14 +22,14 @@ The effective conservation of marine biodiversity across and beyond national jur
 * **Santos, B.S.**, Devereaux, S., Gjerde, K. M., Chand, K., Martinez, J., Crowder, L.B. 2022. The diverse benefits of biodiversity conservation in the global ocean beyond areas of national jurisdiction. *Frontiers in Marine Science* 9:1001240.   <a href="https://doi.org/10.3389/fmars.2022.1001240" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
 <a href="/files/Santos et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
-## (2) Climate-driven shifts of migratory species
+## (2) Climate-driven shifts of highly migratory marine species
 <div style="float: left; margin: 5px 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research2.png" alt="sea turtle swimming" style="width: 100%; max-width: 250px; height: auto;" />
   <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
     Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color: gray; text-decoration: none;">Pexels</a>
   </div>
 </div>
-The climate-driven habitat redistribution of migratory marine species across jurisdictional boundaries presents a growing challenge for the marine management. As species shift in response to changing ocean conditions, existing governance frameworks often struggle to adapt, creating gaps in protection and cooperation. My expertise includes using spatial analyses to understand how species movements are shifting across borders and assessing the ability of governance systems to respond. 
+The long-distance movements of highly migratory marine species across domestic and international waters create challenges for effective management and conservation. As species shift their habitat use in response to changing ocean conditions, existing governance frameworks can struggle to keep pace, leading to gaps in protection and cooperation. My expertise focuses on using spatial analyses to understand how climate change may shift species movements across borders, and on exploring the governance challenges that arise as species move between different jurisdictions.
 
 ### Related publications and activities
 * **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  <a href="https://doi.org/10.1038/s44183-024-00059-5" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
@@ -45,7 +45,7 @@ The climate-driven habitat redistribution of migratory marine species across jur
       Photo: <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">WorldFish, CC BY-NC-ND 2.0</a>
     </div>
   </div>
-Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These pressures can disrupt fishing activity, reduce biodiversity, and challenge communities’ ability to adapt. My expertise lies in combining social and ecological methods to better understand how climate change impacts small-scale fishing communities and their capacity to adapt. This also includes attention to how gender and other intersecting social identities shape resilience, informing more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
+Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These pressures can disrupt fishing activity, reduce biodiversity, and challenge communities’ ability to adapt. My expertise lies in combining social and ecological methods to better understand how climate change impacts small-scale fishing communities and their adaptive capacity. This also includes attention to how gender and other intersecting social identities shape resilience, informing more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
 </p>
 
 ### Related publications and activities

@@ -10,9 +10,9 @@ author_profile: true
 My research explores how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I integrate natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems from coastal waters to the high seas. Spanning global to local scales, my work draws on methods such as policy analysis, spatial modeling, and stakeholder surveys to support effective ocean governance. My expertise can loosely be grouped into three core areas:
 
 ## (1) High seas biodiversity governance
-<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+<div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research1.png" alt="fishing vessels in open ocean" style="width: 100%; max-width: 250px; height: auto;" />
-  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
   </div>
 </div>
@@ -23,9 +23,9 @@ This area explores the complex challenges of conserving marine biodiversity both
 <a href="/files/Santos et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
 ## (2) Climate-driven shifts of migratory species
-<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+<div style="float: left; margin: 0 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research2.png" alt="sea turtle swimming" style="width: 100%; max-width: 250px; height: auto;" />
-  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
     Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color: gray; text-decoration: none;">Pexels</a>
   </div>
 </div>
@@ -37,9 +37,9 @@ The mobile nature of migratory marine species across jurisdictional boundaries p
 * Research collaborator with [LoggerheadSTRETCH](https://www.loggerheadstretch.org/), analyzing  governance complexities emerging from climate-driven sea turtle redistributions in the Northeast Pacific to inform adaptive, responsive management strategies
 
 ## (3) Social-ecological dynamics of small-scale fisheries
-<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+<div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research3.png" alt="Small-scale fishing boats" style="width: 100%; max-width: 250px; height: auto;" />
-  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
      Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0
   </div>
 </div>

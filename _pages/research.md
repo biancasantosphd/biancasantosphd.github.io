@@ -10,7 +10,7 @@ author_profile: true
 My research expertise lies in understanding how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I bring an interdisciplinary perspective that integrates natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems — from coastal waters to the high seas. Spanning global to local contexts, my work has employed methods including policy analysis, spatial modeling, and stakeholder surveys to support more holistic, ecosystem-based management. This expertise loosely centers on three core areas:
 
 ## (1) High seas biodiversity governance
-<div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
+<div style="float: right; margin: 5px 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research1.png" alt="fishing vessels in open ocean" style="width: 100%; max-width: 250px; height: auto;" />
   <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
@@ -23,13 +23,13 @@ The effective conservation of marine biodiversity across and beyond national jur
 <a href="/files/Santos et al 2022.pdf" target="_blank" style="text-decoration: none;"> <i class="fas fa-file-pdf"></i></a>
 
 ## (2) Climate-driven shifts of migratory species
-<div style="float: left; margin: 0 15px 15px 15px; max-width: 45%;">
+<div style="float: left; margin: 5px 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research2.png" alt="sea turtle swimming" style="width: 100%; max-width: 250px; height: auto;" />
   <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
     Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color: gray; text-decoration: none;">Pexels</a>
   </div>
 </div>
-The climate-driven habitat redistribution of migratory marine species across jurisdictional boundaries presents a growing challenge for the marine management. As species shift in response to changing ocean conditions, existing governance frameworks often struggle to adapt, creating gaps in protection and cooperation. My expertise includes using ecological and spatial modeling to track these habitat shifts and assess the ability of governance systems to respond. This work supports the development of adaptive, collaborative management approaches that can better address the dynamic realities of transboundary marine species.
+The climate-driven habitat redistribution of migratory marine species across jurisdictional boundaries presents a growing challenge for the marine management. As species shift in response to changing ocean conditions, existing governance frameworks often struggle to adapt, creating gaps in protection and cooperation. My expertise includes using spatial analyses to understand how species movements are shifting across borders and assessing the ability of governance systems to respond. 
 
 ### Related publications and activities
 * **Santos, B.S.**, Hazen, E.L., Welch, H., Lezama-Ochoa, N., Block, B.A., Costa, D.P., Shaffer, S.A., Crowder, L.B. 2024. Governance challenges in the management of Pacific predators under climate change. *npj Ocean Sustainability* 3(22).  <a href="https://doi.org/10.1038/s44183-024-00059-5" target="_blank" style="text-decoration: none;"> <i class="fas fa-link pub-icon"></i> </a>
@@ -39,13 +39,13 @@ The climate-driven habitat redistribution of migratory marine species across jur
 ## (3) Social-ecological dynamics of small-scale fisheries
 
 <p>
-  <div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
+  <div style="float: right; margin: 5px 15px 15px 15px; max-width: 45%;">
     <img src="https://biancasantosphd.github.io/images/research3.png" alt="Small-scale fishing boats" style="width: 100%; max-width: 250px; height: auto;" />
     <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
       Photo: <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">WorldFish, CC BY-NC-ND 2.0</a>
     </div>
   </div>
-Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These stressors can disrupt fishing activity, reduce biodiversity, and strain adaptive capacity at the local level. Addressing these challenges requires locally grounded, mixed-methods research that integrates social and ecological perspectives. My expertise also considers how various social identities shape resilience, helping to inform more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
+Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These stressors can disrupt fishing activity, reduce biodiversity, and strain adaptive capacity at the local level. My work in this space emphasizes how addressing these challenges requires locally grounded, mixed-methods research that integrates social and ecological perspectives. My expertise also considers how various social identities shape resilience, helping to inform more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
 </p>
 
 ### Related publications and activities

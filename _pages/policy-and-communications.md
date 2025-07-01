@@ -44,9 +44,9 @@ To this end, I’ve participated in various capacities at several high-level int
 2.	“The effect of temperature and diet on growth of juvenile coho salmon (Oncorhynchus kisutch)”. Stony Brook University’s Undergraduate Research and Creativity poster symposium. April 2013, Suffolk, NY.
 
 ## Additional Speaking Engagements
-<img src="https://biancasantosphd.github.io/images/speaking1.png" 
-     alt="Bianca speaking at seminar" 
-     style="float: left; max-width: 250px; width: 100%; height: auto; margin: 0 15px 15px 0;" />
+<div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
+  <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Bianca speaking at seminar" style="width: 100%; max-width: 250px; height: auto;" />
+</div>     
 1.	Featured panelist at an event highlighting careers in science diplomacy for The Christine Mirzayan Science & Technology Policy Graduate Fellowship Program. 9 April 2025. Meridian International Center, Washington, DC.
 2.  “Advancing integrated and dynamic fisheries management.” Invited panelist in a graduate-level law course on International Marine Law. 12 January 2024. Middleburg Institute of International Studies at Monterey, Monterey, CA.
 3.  "Science Communication & Visualization." Guest speaker in a graduate-level fisheries seminar course (FISH 500). 3 March 2023. University of British Columbia (presented remotely).

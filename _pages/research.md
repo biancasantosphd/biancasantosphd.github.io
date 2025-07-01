@@ -10,12 +10,12 @@ author_profile: true
 My research explores how anthropogenic and environmental pressures affect marine biodiversity, ocean governance, and coastal communities. I integrate natural and social science approaches to inform adaptive, inclusive, and scalable strategies for managing marine ecosystems from coastal waters to the high seas. Spanning global to local scales, my work draws on methods such as policy analysis, spatial modeling, and stakeholder surveys to support effective ocean governance. My expertise can loosely be grouped into three core areas:
 
 ## (1) High seas biodiversity governance
-<figure style="float: left; margin: 15px; width: 300px;">
-  <img src="https://biancasantosphd.github.io/images/research1.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
-  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
+<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+  <img src="https://biancasantosphd.github.io/images/research1.png" alt="Profile" style="width: 100%; max-width: 250px; height: auto;" />
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
     Photo: Public domain via <a href="https://picryl.com/media/boutwell-transfers-vessel-suspected-of-high-seas-drift-net-fishing-afb692" target="_blank" style="color:gray; text-decoration:none;">DVIDS</a>
-  </figcaption>
-</figure>
+  </div>
+</div>
 This area explores the complex challenges of conserving marine biodiversity both across and beyond national jurisdictions, where fragmented governance frameworks have historically limited effective protection. It encompasses efforts such as the recent Biodiversity Beyond National Jurisdiction (BBNJ) treaty — also known as the “High Seas” treaty — which seeks to sustainably manage marine life in areas beyond national jurisdiction. A key interest lies in understanding how fisheries and biodiversity policies and regulations across national and regional boundaries interact to affect the conservation of marine biodiversity, and how these frameworks might be improved through transformative governance approaches that promote equity, collaboration, and adaptability.
 
 ### Related publications and activities
@@ -24,7 +24,7 @@ This area explores the complex challenges of conserving marine biodiversity both
 
 ## (2) Climate-driven shifts of migratory species
 <div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
-  <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width: 100%; height: auto;" />
+  <img src="https://biancasantosphd.github.io/images/research2.png" alt="Profile" style="width: 100%; max-width: 250px; height: auto;" />
   <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
     Photo: Francesco Ungaro via <a href="https://www.pexels.com/photo/photo-of-turtle-underwater-3337289/" target="_blank" style="color: gray; text-decoration: none;">Pexels</a>
   </div>
@@ -37,12 +37,13 @@ The mobile nature of migratory marine species across jurisdictional boundaries p
 * Research collaborator with [LoggerheadSTRETCH](https://www.loggerheadstretch.org/), analyzing  governance complexities emerging from climate-driven sea turtle redistributions in the Northeast Pacific to inform adaptive, responsive management strategies
 
 ## (3) Social-ecological dynamics of small-scale fisheries
-<figure style="float: left; margin: 15px; width: 300px;">
-  <img src="https://biancasantosphd.github.io/images/research3.png" alt="Speaking at event" style="max-width: 100%; display: block;" />
-  <figcaption style="font-family: inherit; font-size: 0.8em; color: gray; text-align: left; margin-top: 4px;">
-    Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0
-  </figcaption>
-</figure>This area explores the complex challenges faced by coastal communities, especially small-scale fisheries, as they navigate the impacts of climate change on their livelihoods, food security, and cultural practices. It emphasizes the need for locally grounded, mixed-methods research that integrates social and ecological perspectives to better understand how environmental stressors affect fishing activity, biodiversity, and  adaptive capacity. This research also considers how gender and intersecting social identities influence resilience and adaptive capacity, contributing to the development of inclusive, equitable, and gender-responsive management strategies.
+<div style="float: right; margin: 0 15px 15px 0; max-width: 45%;">
+  <img src="https://biancasantosphd.github.io/images/research3.png" alt="Profile" style="width: 100%; max-width: 250px; height: auto;" />
+  <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: right; margin-top: 4px;">
+     Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0
+  </div>
+</div>
+This area explores the complex challenges faced by coastal communities, especially small-scale fisheries, as they navigate the impacts of climate change on their livelihoods, food security, and cultural practices. It emphasizes the need for locally grounded, mixed-methods research that integrates social and ecological perspectives to better understand how environmental stressors affect fishing activity, biodiversity, and  adaptive capacity. This research also considers how gender and intersecting social identities influence resilience and adaptive capacity, contributing to the development of inclusive, equitable, and gender-responsive management strategies.
 
 ### Related publications and activities
 * **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Social-ecological vulnerability and adaptive capacity of small-scale fisheries in Palau. *In Review*

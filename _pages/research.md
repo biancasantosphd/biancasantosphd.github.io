@@ -45,7 +45,7 @@ The climate-driven habitat redistribution of migratory marine species across jur
       Photo: <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">WorldFish, CC BY-NC-ND 2.0</a>
     </div>
   </div>
-Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These stressors can disrupt fishing activity, reduce biodiversity, and strain adaptive capacity at the local level. My work in this space emphasizes how addressing these challenges requires locally grounded, mixed-methods research that integrates social and ecological perspectives. My expertise also considers how various social identities shape resilience, helping to inform more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
+Small-scale fisheries are vital to the food security, livelihoods, and cultural identity of millions of coastal communities — but they remain highly vulnerable to environmental stressors driven by climate change. These pressures can disrupt fishing activity, reduce biodiversity, and challenge communities’ ability to adapt. My expertise lies in combining social and ecological methods to better understand how climate change impacts small-scale fishing communities and their capacity to adapt. This also includes attention to how gender and other intersecting social identities shape resilience, informing more inclusive, equitable, and gender-responsive strategies for managing coastal marine resources.
 </p>
 
 ### Related publications and activities

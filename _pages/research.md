@@ -40,7 +40,7 @@ The mobile nature of migratory marine species across jurisdictional boundaries p
 <div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/research3.png" alt="Small-scale fishing boats" style="width: 100%; max-width: 250px; height: auto;" />
   <div style="font-family: inherit; font-size: 0.8em; color: gray; text-align: center; margin-top: 4px;">
-     Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">“Small-scale fisheries, Solomon Islands. Photo by Wade Fairley”</a> by WorldFish, CC BY-NC-ND 2.0
+     Photo:  <a href="https://www.flickr.com/photos/theworldfishcenter/17117637826" target="_blank" style="color:gray; text-decoration:none;">WorldFish, CC BY-NC-ND 2.0</a>
   </div>
 </div>
 This area explores the complex challenges faced by coastal communities, especially small-scale fisheries, as they navigate the impacts of climate change on their livelihoods, food security, and cultural practices. It emphasizes the need for locally grounded, mixed-methods research that integrates social and ecological perspectives to better understand how environmental stressors affect fishing activity, biodiversity, and  adaptive capacity. This research also considers how gender and intersecting social identities influence resilience and adaptive capacity, contributing to the development of inclusive, equitable, and gender-responsive management strategies.

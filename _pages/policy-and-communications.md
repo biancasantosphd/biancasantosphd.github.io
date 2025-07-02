@@ -44,6 +44,7 @@ To this end, I’ve participated in various capacities at several high-level int
 2.	“The effect of temperature and diet on growth of juvenile coho salmon (Oncorhynchus kisutch)”. Stony Brook University’s Undergraduate Research and Creativity poster symposium. April 2013, Suffolk, NY.
 
 ## Additional Speaking Engagements
+<hr />
 <div style="float: right; margin: 0 15px 15px 15px; max-width: 45%;">
   <img src="https://biancasantosphd.github.io/images/speaking1.png" alt="Bianca speaking at seminar" style="width: 100%; max-width: 250px; height: auto;" />
 </div>     

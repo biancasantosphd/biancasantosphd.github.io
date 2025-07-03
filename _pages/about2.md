@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about2/
-title: "Interdisciplinary ocean professional passionate about advancing science-based solutions that support both ecosystems and the communities who depend on them 🌊"
+title: "Interdisciplinary ocean professional advancing science-based solutions for nature and people 🌊"
 author_profile: true
 #redirect_from: 
 #  - /about2/

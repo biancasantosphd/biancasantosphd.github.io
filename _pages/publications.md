@@ -58,14 +58,14 @@ author_profile: true
 
 1. Palacios-Abrantes, J., **Santos, B.S.**, Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., & Cheung, W.W.L. Climate change drives shifts in straddling fish stocks in the world’s ocean. Accepted at *Science Advances*
 
-2. **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Social-ecological vulnerability and adaptive capacity of small-scale fisheries in Palau. 
+2. **Santos, B.S.**, Wabnitz, C., Singeo, A., Sato, I., Bernstein, M.S., Birkenmayer, K., Crowder, L.B., Ferguson, C.E., Fröelicher, T.L., Kaster, C., Lewis, S., Micheli, F., Raemakers, S., Reygondeau, G., Wong-Parodi, G. Integrating socio-ecological indicators to inform the sustainable management of small-scale fisheries in a changing climate. 
+
+3. **Santos, B.S.**, Ferguson, C.E., Mekilt Nagata, M., Singeo, A., Wabnitz, C., Wong-Parodi, G. An intersectional analysis of gender and marital status in shaping climate change perceptions and behavioral intentions among small-scale fishers in Palau.
 
 ### In Preparation  
 <hr />
 
 1. **Santos, B.S.**, Devereaux, S., Crowder, L. Classifying bycatch mitigation measures across jurisdictions: A case study in the northeast Pacific.
-
-2. **Santos, B.S.**, Ferguson, C.E., Mekilt Nagata, M., Singeo, A., Wabnitz, C., Wong-Parodi, G. An intersectional analysis of gendered vulnerability and resilience to climate change in Palau.
 
 ## Book Chapters  
 <hr />
